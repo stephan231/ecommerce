@@ -45,7 +45,7 @@ p {
 
 body {
   width: 100%;
-  overflow:hiden;
+  overflow-x:hidden;
 }
 
 /*navbar start*/
